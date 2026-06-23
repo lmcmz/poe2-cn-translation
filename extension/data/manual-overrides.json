@@ -1,0 +1,110 @@
+[
+  {
+    "english": "Item Level",
+    "type": "ui_label",
+    "source": "manual",
+    "translations": {
+      "zh-CN": { "text": "物品等级", "sourceUrl": "manual" },
+      "zh-TW": { "text": "物品等級", "sourceUrl": "manual" }
+    }
+  },
+  {
+    "english": "Requires",
+    "type": "ui_label",
+    "source": "manual",
+    "translations": {
+      "zh-CN": { "text": "需求", "sourceUrl": "manual" },
+      "zh-TW": { "text": "需求", "sourceUrl": "manual" }
+    }
+  },
+  {
+    "english": "Requires:",
+    "type": "ui_label",
+    "source": "manual",
+    "translations": {
+      "zh-CN": { "text": "需求:", "sourceUrl": "manual" },
+      "zh-TW": { "text": "需求:", "sourceUrl": "manual" }
+    }
+  },
+  {
+    "english": "Level",
+    "type": "ui_label",
+    "source": "manual",
+    "translations": {
+      "zh-CN": { "text": "等级", "sourceUrl": "manual" },
+      "zh-TW": { "text": "等級", "sourceUrl": "manual" }
+    }
+  },
+  {
+    "english": "Level 1",
+    "type": "stat",
+    "source": "manual",
+    "translations": {
+      "zh-CN": { "text": "等级 1", "sourceUrl": "manual" },
+      "zh-TW": { "text": "等級 1", "sourceUrl": "manual" }
+    }
+  },
+  {
+    "english": "Damage Reduction",
+    "type": "ui_label",
+    "source": "manual",
+    "translations": {
+      "zh-CN": { "text": "伤害减免", "sourceUrl": "manual" },
+      "zh-TW": { "text": "傷害減免", "sourceUrl": "manual" }
+    }
+  },
+  {
+    "english": "Evade Chance",
+    "type": "ui_label",
+    "source": "manual",
+    "translations": {
+      "zh-CN": { "text": "闪避几率", "sourceUrl": "manual" },
+      "zh-TW": { "text": "閃避機率", "sourceUrl": "manual" }
+    }
+  },
+  {
+    "english": "Deflect Chance",
+    "type": "ui_label",
+    "source": "manual",
+    "translations": {
+      "zh-CN": { "text": "偏转几率", "sourceUrl": "manual" },
+      "zh-TW": { "text": "偏轉機率", "sourceUrl": "manual" }
+    }
+  },
+  {
+    "english": "Physical taken as",
+    "type": "ui_label",
+    "source": "manual",
+    "translations": {
+      "zh-CN": { "text": "物理伤害转换为", "sourceUrl": "manual" },
+      "zh-TW": { "text": "物理傷害轉換為", "sourceUrl": "manual" }
+    }
+  },
+  {
+    "english": "Effective Health Pool",
+    "type": "ui_label",
+    "source": "manual",
+    "translations": {
+      "zh-CN": { "text": "有效生命池", "sourceUrl": "manual" },
+      "zh-TW": { "text": "有效生命池", "sourceUrl": "manual" }
+    }
+  },
+  {
+    "english": "Max Hit",
+    "type": "ui_label",
+    "source": "manual",
+    "translations": {
+      "zh-CN": { "text": "最大承受伤害", "sourceUrl": "manual" },
+      "zh-TW": { "text": "最大承受傷害", "sourceUrl": "manual" }
+    }
+  },
+  {
+    "english": "Simulated",
+    "type": "ui_label",
+    "source": "manual",
+    "translations": {
+      "zh-CN": { "text": "模拟", "sourceUrl": "manual" },
+      "zh-TW": { "text": "模擬", "sourceUrl": "manual" }
+    }
+  }
+]

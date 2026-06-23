@@ -1,0 +1,22 @@
+{
+  "name": "poe2-cn-translation",
+  "version": "0.3.0",
+  "description": "Chrome extension that adds Simplified/Traditional Chinese to Path of Exile 2 community sites and the official trade site.",
+  "license": "MIT",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host 127.0.0.1",
+    "build": "npm run build:dictionary && vite build && node scripts/build-trade-content.mjs",
+    "build:dictionary": "node scripts/build-dictionary.mjs",
+    "crawl:poe2db": "uv run --with scrapling --with curl-cffi --with playwright --with browserforge python scripts/crawl-poe2db-scrapling.py",
+    "typecheck": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "@crxjs/vite-plugin": "^2.0.0",
+    "@types/chrome": "^0.0.268",
+    "esbuild": "^0.27.0",
+    "typescript": "^5.5.4",
+    "vite": "^8.0.16"
+  }
+}

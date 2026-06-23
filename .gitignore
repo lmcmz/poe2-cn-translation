@@ -1,0 +1,7 @@
+node_modules/
+dist/
+*.zip
+*.log
+
+# client-extract: downloaded game tables (large, game-owned — not redistributed)
+client-extract/tables/

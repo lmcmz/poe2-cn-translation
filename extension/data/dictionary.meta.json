@@ -1,0 +1,17 @@
+{
+  "generatedAt": "2026-06-23T02:33:57.068Z",
+  "sourcePath": "data/source-terms.json",
+  "sourceCount": 24574,
+  "outputs": [
+    {
+      "language": "zh-CN",
+      "path": "data/dictionary.zh-CN.json",
+      "count": 24574
+    },
+    {
+      "language": "zh-TW",
+      "path": "data/dictionary.zh-TW.json",
+      "count": 24574
+    }
+  ]
+}

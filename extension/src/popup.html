@@ -1,0 +1,60 @@
+<!doctype html>
+<html lang="zh-Hans">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>PoE2 中文翻译</title>
+    <script type="module" src="/src/popup.ts"></script>
+  </head>
+  <body>
+    <main class="popup-shell">
+      <header class="popup-header">
+        <div>
+          <h1>PoE2 中文翻译</h1>
+          <p>基于游戏数据的 1:1 中文对照</p>
+        </div>
+        <label class="switch">
+          <input id="enabled" type="checkbox" />
+          <span></span>
+        </label>
+      </header>
+
+      <section class="control-group" aria-labelledby="language-label">
+        <label id="language-label" for="language">语言</label>
+        <select id="language">
+          <option value="zh-CN">简体中文</option>
+          <option value="zh-TW">繁體中文</option>
+        </select>
+      </section>
+
+      <section class="control-group" aria-labelledby="display-mode-label">
+        <label id="display-mode-label" for="display-mode">显示模式</label>
+        <select id="display-mode">
+          <option value="both">英文 + 中文</option>
+          <option value="translation">仅中文</option>
+          <option value="tooltip">英文（悬浮显示中文）</option>
+        </select>
+      </section>
+
+      <section class="search-block" aria-label="查词条">
+        <label for="term-search">查词条</label>
+        <input id="term-search" type="text" autocomplete="off" spellcheck="false"
+          placeholder="输入中文或英文搜索词条（英/简/繁互查）" />
+        <div id="term-results" class="term-results"></div>
+      </section>
+
+      <section class="meta-panel" aria-label="词库信息">
+        <div>
+          <span>词库</span>
+          <strong id="dictionary-count">-</strong>
+        </div>
+        <div>
+          <span>更新日期</span>
+          <strong id="dictionary-date">-</strong>
+        </div>
+      </section>
+
+      <p class="note">仅翻译来自 PoE2DB、官方游戏客户端、RePoE 或人工校对的 1:1 词条，不做 AI 猜译。</p>
+    </main>
+  </body>
+</html>

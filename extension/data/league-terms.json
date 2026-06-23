@@ -1,0 +1,91 @@
+[
+  {
+    "english": "Runes of Aldur",
+    "type": "league",
+    "source": "poe2db",
+    "translations": {
+      "zh-CN": { "text": "奥杜尔秘符", "sourceUrl": "https://poe2db.tw/cn/League" },
+      "zh-TW": { "text": "阿德爾的符文", "sourceUrl": "https://poe2db.tw/tw/League" }
+    }
+  },
+  {
+    "english": "Return of the Ancients",
+    "type": "league",
+    "source": "poe2db",
+    "translations": {
+      "zh-CN": { "text": "远古回响", "sourceUrl": "https://poe2db.tw/cn/League" },
+      "zh-TW": { "text": "上古回歸", "sourceUrl": "https://poe2db.tw/tw/League" }
+    }
+  },
+  {
+    "english": "Fate of the Vaal",
+    "type": "league",
+    "source": "poe2db",
+    "translations": {
+      "zh-CN": { "text": "瓦尔的宿命", "sourceUrl": "https://poe2db.tw/cn/League" },
+      "zh-TW": { "text": "瓦爾命途", "sourceUrl": "https://poe2db.tw/tw/League" }
+    }
+  },
+  {
+    "english": "The Last of the Druids",
+    "type": "league",
+    "source": "poe2db",
+    "translations": {
+      "zh-CN": { "text": "末裔德鲁伊", "sourceUrl": "https://poe2db.tw/cn/League" },
+      "zh-TW": { "text": "最後的德魯伊", "sourceUrl": "https://poe2db.tw/tw/League" }
+    }
+  },
+  {
+    "english": "Rise of the Abyssal",
+    "type": "league",
+    "source": "poe2db",
+    "translations": {
+      "zh-CN": { "text": "深渊崛起", "sourceUrl": "https://poe2db.tw/cn/League" },
+      "zh-TW": { "text": "深淵的崛起", "sourceUrl": "https://poe2db.tw/tw/League" }
+    }
+  },
+  {
+    "english": "The Third Edict",
+    "type": "league",
+    "source": "poe2db",
+    "translations": {
+      "zh-CN": { "text": "第三敕令", "sourceUrl": "https://poe2db.tw/cn/League" },
+      "zh-TW": { "text": "第三戒律", "sourceUrl": "https://poe2db.tw/tw/League" }
+    }
+  },
+  {
+    "english": "Dawn of the Hunt",
+    "type": "league",
+    "source": "poe2db",
+    "translations": {
+      "zh-CN": { "text": "狩猎黎明", "sourceUrl": "https://poe2db.tw/cn/League" },
+      "zh-TW": { "text": "狩獵黎明", "sourceUrl": "https://poe2db.tw/tw/League" }
+    }
+  },
+  {
+    "english": "Early Access",
+    "type": "league",
+    "source": "poe2db",
+    "translations": {
+      "zh-TW": { "text": "搶先體驗", "sourceUrl": "https://poe2db.tw/tw/League" }
+    }
+  },
+  {
+    "english": "Standard",
+    "type": "league",
+    "source": "official",
+    "translations": {
+      "zh-CN": { "text": "标准", "sourceUrl": "official" },
+      "zh-TW": { "text": "標準", "sourceUrl": "official" }
+    }
+  },
+  {
+    "english": "Hardcore",
+    "type": "league",
+    "source": "official",
+    "translations": {
+      "zh-CN": { "text": "专家", "sourceUrl": "official" },
+      "zh-TW": { "text": "專家", "sourceUrl": "official" }
+    }
+  }
+]
