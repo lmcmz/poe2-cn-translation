@@ -94,6 +94,29 @@ extension/data/*.json   ──build-dictionary.mjs──►  dictionary.zh-CN.js
   It is game content owned by Grinding Gear Games, redistributed here for
   **non-commercial fan use** only. Credit to [PoE2DB](https://poe2db.tw).
 
+## Credits
+
+Built on the shoulders of the Path of Exile community — thank you:
+
+- **[PoE2DB](https://poe2db.tw)** (chuanhsing) — the primary source of 1:1 Chinese
+  term data (items, mods, leagues). Please support and be respectful of their site.
+- **[pathofexile-dat / poe-dat-viewer](https://github.com/SnosMe/poe-dat-viewer)**
+  (SnosMe) — extracts official Traditional Chinese straight from the game client.
+- **[RePoE](https://github.com/repoe-fork/repoe-fork.github.io)** — English stat / mod
+  data reference.
+- **[Scrapling](https://github.com/D4Vinci/Scrapling)** (D4Vinci) — used upstream to
+  gather term data.
+- **[Awakened PoE Trade](https://github.com/SnosMe/awakened-poe-trade)** &
+  **[Exiled Exchange 2](https://github.com/Kvan7/Exiled-Exchange-2)** — reference for
+  trade stat-id handling.
+- **[CRXJS Vite Plugin](https://github.com/crxjs/chrome-extension-tools)** +
+  **[Vite](https://vitejs.dev)** — extension build tooling.
+- The sites this extension enhances: **poe.ninja**, **pobb.in**, **Maxroll**,
+  **FilterBlade**, **Mobalytics**, and GGG's official trade site.
+
+Path of Exile 2 © **Grinding Gear Games**. This is an unofficial, non-commercial fan
+project, not affiliated with or endorsed by GGG.
+
 ## Privacy
 
 No data collection, no tracking, no external servers — translation runs entirely in
