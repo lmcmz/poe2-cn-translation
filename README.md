@@ -1,11 +1,38 @@
-# PoE2 中文翻译 · PoE2 Chinese Translation
+<p align="center">
+  <img src="assets/logo.png" width="128" alt="PoE2 中文翻译" />
+</p>
 
-A Chrome extension that adds **Simplified / Traditional Chinese** to *Path of Exile 2*
-community sites and the official trade site. Every term comes **1:1 from official
-game data** (PoE2DB + the official game client) — never machine-guessed.
+<h1 align="center">PoE2 中文翻译 · PoE2 Chinese Translation</h1>
+
+<p align="center">
+  A Chrome extension that adds <b>Simplified / Traditional Chinese</b> to
+  <i>Path of Exile 2</i> community sites and the official trade site.<br/>
+  Every term comes <b>1:1 from official game data</b> — never machine-guessed.
+</p>
+
+<p align="center">
+  <a href="https://chromewebstore.google.com/detail/gmhpicnoomfogofehjpaocadnkdphgck">
+    <img alt="Chrome Web Store" src="https://img.shields.io/chrome-web-store/v/gmhpicnoomfogofehjpaocadnkdphgck?label=Chrome%20Web%20Store&color=f0c674&logo=googlechrome&logoColor=white" />
+  </a>
+  <a href="https://chromewebstore.google.com/detail/gmhpicnoomfogofehjpaocadnkdphgck">
+    <img alt="Users" src="https://img.shields.io/chrome-web-store/users/gmhpicnoomfogofehjpaocadnkdphgck?label=users&color=4c8bf5" />
+  </a>
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-green" />
+</p>
+
+<p align="center">
+  <b><a href="https://chromewebstore.google.com/detail/gmhpicnoomfogofehjpaocadnkdphgck">→ Install from the Chrome Web Store</a></b>
+</p>
 
 > 不隶属于 Grinding Gear Games，也未获其认可。Path of Exile 为 GGG 商标。
 > Fan-made; not affiliated with or endorsed by Grinding Gear Games.
+
+## Screenshots
+
+| | |
+|---|---|
+| <img src="assets/shot-1.png" alt="官方交易站物品全中文" /> | <img src="assets/shot-2.png" alt="装备词缀 + 角色面板" /> |
+| <img src="assets/shot-3.png" alt="查词条 中英双搜" /> | <img src="assets/shot-4.png" alt="官方交易站筛选界面" /> |
 
 ## Features
 
@@ -19,6 +46,9 @@ game data** (PoE2DB + the official game client) — never machine-guessed.
 - Fully local & offline (the dictionary is bundled); collects no user data
 
 ## Install
+
+**From the Chrome Web Store (recommended):**
+[chromewebstore.google.com/detail/…/gmhpicnoomfogofehjpaocadnkdphgck](https://chromewebstore.google.com/detail/gmhpicnoomfogofehjpaocadnkdphgck)
 
 **From source (unpacked):**
 
